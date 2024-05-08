@@ -1,0 +1,2 @@
+# mastdetails
+Master Details Application
